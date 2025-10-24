@@ -13,40 +13,50 @@
 //  *     }
 //  * }
 //  */
+
+
+
 // class Solution {
 //     public int countNodes(TreeNode root) {
-//         if(root==null){
-//             return 0;
-//         }
-
-//         public int getHeightLeft(TreeNode root){
-//             int count=0;
-//             while(root.left!=null){
-//                 count++;
-//                 root=root.left;
-//             }
-//             return count;
-//         }
-
-//         public int getHeightRight(TreeNode root){
-//             int count=0;
-//             while(root.right!=null){
-//                 count++;
-//                 root=root.right;
-//             }
-//             return count;
-//         }
-
-        
-        
+//         if (root == null) return 0;
+//         return 1 + countNodes(root.left) + countNodes(root.right);
 //     }
 // }
 
-
 class Solution {
     public int countNodes(TreeNode root) {
-        if (root == null) return 0;
-        return 1 + countNodes(root.left) + countNodes(root.right);
+        if(root==null){
+            return 0;
+        }
+
+        int leftHeight= getHeightLeft(root);
+        int rightHeight= getHeightRight(root);
+
+        if(leftHeight==rightHeight){
+            return (1<<leftHeight)-1;
+        }
+
+        else{
+            return 1+ countNodes(root.left)+ countNodes(root.right);
+        }
+
+    }
+        public int getHeightLeft(TreeNode root){
+            int count=0;
+            while(root!=null){
+                count++;
+                root=root.left;
+            }
+            return count;
+        }
+
+        public int getHeightRight(TreeNode root){
+            int count=0;
+            while(root!=null){
+                count++;
+                root=root.right;
+            }
+            return count; 
     }
 }
 
