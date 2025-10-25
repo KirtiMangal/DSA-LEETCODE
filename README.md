@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0051-n-queens) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
