@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search
 |  |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0678-valid-parenthesis-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
