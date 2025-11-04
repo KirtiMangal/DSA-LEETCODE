@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0547-number-of-provinces](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0547-number-of-provinces) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0547-number-of-provinces) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -165,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0621-task-scheduler) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
