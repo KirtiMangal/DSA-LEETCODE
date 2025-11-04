@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0621-task-scheduler) |
 | [0890-lemonade-change](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0890-lemonade-change) |
+| [1036-rotting-oranges](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2169-simple-bank-system](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2169-simple-bank-system) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0048-rotate-image) |
+| [1036-rotting-oranges](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0547-number-of-provinces) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
