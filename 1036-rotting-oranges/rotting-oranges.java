@@ -22,46 +22,48 @@ class Solution {
         }
 
         int time=0;
-        
         while(!q.isEmpty()){
             int size= q.size();
+
             for(int i=0;i<size;i++){
-                int[] rottenLoc= q.poll();
-                int r= rottenLoc[0];
-                int c= rottenLoc[1];
+            int[] rottenLoc= q.poll();
+            int r= rottenLoc[0];
+            int c= rottenLoc[1];
 
-                int neighbours[][]={
-                    {r-1,c},
-                    {r,c+1},
-                    {r+1,c},
-                    {r,c-1}
-                };
+            int[][] neighbours= {
+                {r+1,c},
+                {r,c+1},
+                {r-1,c},
+                {r,c-1}
+            };
 
-                for(int neighbour[]: neighbours){
-                    int nr= neighbour[0];
-                    int nc= neighbour[1];
+            for(int[] neighbour: neighbours){
+                int nr= neighbour[0];
+                int nc= neighbour[1];
 
-                    if(nr<0 || nr>=n || nc<0 || nc>=m){
-                        continue;
-                    }
-
-                    else if(grid[nr][nc]!=1){
-                        continue;
-                    }
-
-                    q.offer(new int[]{nr,nc});
-                    grid[nr][nc]=2;
-                    freshCount--;
-
-                    if(freshCount==0){
-                        return time+1;
-                    }
+                if(nr<0 || nr>=n || nc<0 || nc>=m){
+                    continue;
                 }
-            }
 
-            time++;
+                else if(grid[nr][nc]!=1){
+                    continue;
+                }
+
+                q.add(new int[]{nr,nc});
+                grid[nr][nc]=2;
+
+                freshCount--;
+
+                if(freshCount==0)
+                return time+1;
+            }
         }
+
+        time++;
         
-        return -1;
     }
+
+    return -1;
+}
+
 }
