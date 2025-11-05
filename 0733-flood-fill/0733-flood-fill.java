@@ -1,48 +1,31 @@
 class Solution {
+    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        int startColor= image[sr][sc];
+        if(startColor==color)
+        return image;
 
+        dfs(image,sr,sc,startColor,color);
+        return image;
+        
+    }
 
-    public int[][] floodFill(int[][] image, int sr, int sc, int color){
+    public void dfs(int[][] image, int r,int c, int startColor, int newColor){
         int n= image.length;
         int m= image[0].length;
 
-        int startColor= image[sr][sc];
-        if(startColor==color){
-            return image;
+        if(r<0 || r>=n || c<0 || c>=m){
+            return;
         }
 
-        Queue<int[]> queue= new LinkedList<>();
-        queue.offer(new int[]{sr,sc});
-        image[sr][sc]= color;
-
-        while(!queue.isEmpty()){
-            int[] cell= queue.poll();
-            int r=cell[0];
-            int c=cell[1];
-
-            int neighbours[][]= 
-            {
-                {r-1,c},
-                {r+1,c},
-                {r,c-1},
-                {r,c+1}
-            };
-
-            for(int neighbour[]: neighbours){
-                int nr= neighbour[0];
-                int nc= neighbour[1];
-
-                if(nr<0 || nr>=n || nc<0 || nc>=m){
-                    continue;
-                }
-
-                if(image[nr][nc]==startColor){
-                    image[nr][nc]= color;
-
-                    queue.offer(new int[]{nr,nc});
-                }
-            }
+        if(image[r][c]!=startColor){
+            return;
         }
 
-        return image;
+        image[r][c]= newColor;
+
+        dfs(image,r-1,c,startColor,newColor);
+        dfs(image,r+1,c,startColor,newColor);
+        dfs(image,r,c-1,startColor,newColor);
+        dfs(image,r,c+1,startColor,newColor);
     }
-    }
+}
