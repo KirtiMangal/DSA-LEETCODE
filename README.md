@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
