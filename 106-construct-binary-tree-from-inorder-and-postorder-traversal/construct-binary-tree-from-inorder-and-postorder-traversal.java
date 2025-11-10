@@ -24,19 +24,20 @@ class Solution {
             map.put(inorder[i],i);
         }
 
-        return build(inorder, postorder ,0,inorder.length-1,map);
+        return build(inorder,postorder,0,inorder.length-1,map);
+        
     }
 
-        public TreeNode build(int in[], int post[], int inst, int inend, Map<Integer,Integer> map){
-            if(inst> inend){
-                return null;
-            }
-
-            TreeNode root= new TreeNode(post[idx--]);
-            int index= map.get(root.val);
-            root.right= build(in,post,index+1, inend,map);
-            root.left= build(in,post,inst,index-1,map);
-
-            return root;
+    public TreeNode build(int in[],int post[], int inst,int inend, Map<Integer,Integer> map){
+        while(inst>inend){
+            return null;
         }
+
+        TreeNode root= new TreeNode(post[idx--]);
+        int index= map.get(root.val);
+        root.right= build(in,post,index+1,inend,map);
+        root.left= build(in,post,inst,index-1,map);
+
+        return root;
     }
+}
