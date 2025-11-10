@@ -25,26 +25,25 @@ class Solution {
         
         while(!q.isEmpty()){
             int levelSize= q.size();
-
-            List<Integer> currentlevel= new ArrayList<>();
+            List<Integer> currentLevel= new ArrayList<>();
 
             for(int i=0;i<levelSize;i++){
                 TreeNode current= q.poll();
-                currentlevel.add(current.val);
+                currentLevel.add(current.val);
 
-                if(current.left!=null){
-                    q.add(current.left);
-                }
 
-                if(current.right!=null){
-                    q.add(current.right);
-                }
-            }
-
-            result.add(currentlevel);
+        if(current.left!=null){
+            q.offer(current.left);
         }
 
-        return result;
+        if(current.right!=null){
+            q.offer(current.right);
+        }
         
     }
+
+    result.add(currentLevel);
 }
+
+return result;
+    }}
