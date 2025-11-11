@@ -5,15 +5,15 @@ class Solution {
         List<Integer> result= new ArrayList<>();
 
         for(int i=0;i<n;i++){
-            if(isSafe(i,graph,state)){
+            if(isSafe(graph,state,i)){
                 result.add(i);
             }
         }
 
-        return result;
+    return result;
 }
 
-private boolean isSafe(int node,int[][] graph,int[] state){
+private boolean isSafe(int[][] graph,int state[],int node){
     if(state[node]!=0){
         return state[node]==2;
     }
@@ -21,12 +21,16 @@ private boolean isSafe(int node,int[][] graph,int[] state){
     state[node]=1;
 
     for(int neighbour:graph[node]){
-        if(!isSafe(neighbour,graph,state)){
+        if(!isSafe(graph,state,neighbour)){
             return false;
         }
     }
 
     state[node]=2;
+
     return true;
 }
 }
+
+
+       
