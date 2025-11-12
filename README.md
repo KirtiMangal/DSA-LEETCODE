@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0792-binary-search](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
