@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0130-surrounded-regions) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0542-01-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
