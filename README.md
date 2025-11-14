@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0621-task-scheduler) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0621-task-scheduler) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2169-simple-bank-system](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2169-simple-bank-system) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0621-task-scheduler) |
 | [1829-maximum-units-on-a-truck](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
