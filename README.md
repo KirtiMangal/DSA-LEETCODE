@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
 | [2169-simple-bank-system](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Math
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0319-bulb-switcher](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0319-bulb-switcher) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Matrix
 |  |
 | ------- |
