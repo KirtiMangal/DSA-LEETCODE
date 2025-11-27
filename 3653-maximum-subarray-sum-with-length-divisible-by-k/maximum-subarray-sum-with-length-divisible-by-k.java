@@ -33,21 +33,21 @@ class Solution {
             minPrefix[i]= Long.MAX_VALUE;
         }
 
-        long prefix=0;
+        long max=0;
         long ans= Long.MIN_VALUE;
 
         minPrefix[0]=0;
 
         for(int i=0;i<n;i++){
-            prefix+= nums[i];
+            max+= nums[i];
             int rem= (i+1)%k;
 
             if(minPrefix[rem]!= Long.MAX_VALUE){
-                long valid= prefix- minPrefix[rem];
+                long valid= max- minPrefix[rem];
                 ans= Math.max(ans,valid);
             }
 
-            minPrefix[rem]= Math.min(minPrefix[rem], prefix);
+            minPrefix[rem]= Math.min(minPrefix[rem],max);
         }
 
         return ans;
