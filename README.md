@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0456-132-pattern) |
 | [0542-01-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0792-binary-search) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0621-task-scheduler) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2169-simple-bank-system](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2169-simple-bank-system) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Greedy
