@@ -17,7 +17,7 @@ class Solution {
         return count[0];
     }
 
-    public long dfs(int current, int parent, List<Integer>[] adj, int[] values, int k, int[] count) {
+    public static long dfs(int current, int parent, List<Integer>[] adj, int[] values, int k, int[] count) {
         long sum = 0;
 
         for (int neighbour : adj[current]) {
