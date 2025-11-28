@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1035-cousins-in-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1035-cousins-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1073-number-of-enclaves) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
