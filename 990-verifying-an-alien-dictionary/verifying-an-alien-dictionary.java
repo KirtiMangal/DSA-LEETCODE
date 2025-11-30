@@ -1,13 +1,14 @@
 class Solution {
     public boolean isAlienSorted(String[] words, String order) {
         int n=order.length();
+        int m=words.length;
 
         int[] map= new int[26];
         for(int i=0;i<26;i++){
             map[order.charAt(i)-'a']=i;
         }
         
-        for(int i=0;i<words.length-1;i++){
+        for(int i=0;i<m-1;i++){
             if(!isSorted(words[i],words[i+1],map)){
                 return false;
             }
