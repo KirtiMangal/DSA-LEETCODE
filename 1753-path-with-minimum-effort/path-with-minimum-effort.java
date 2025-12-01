@@ -1,15 +1,14 @@
-class Pair {
+class Pair{
     int dist;
     int row;
     int col;
 
-    public Pair(int dist, int row, int col) {
-        this.dist = dist;
-        this.row = row;
-        this.col = col;
+    public Pair(int dist,int row,int col){
+        this.dist=dist;
+        this.row=row;
+        this.col=col;
     }
 }
-
 class Solution {
     public int minimumEffortPath(int[][] heights) {
         int n= heights.length;
@@ -23,41 +22,42 @@ class Solution {
         }
 
         PriorityQueue<Pair> pq= new PriorityQueue<>((a,b)->a.dist-b.dist);
-        int[] src= {0,0};
-        int[] destination= {n-1,m-1};
-        
-                dist[src[0]][src[1]]=0;
-                pq.add(new Pair(0, src[0], src[1]));
-            
 
-            int[] dR={-1,0,1,0};
-            int[] dC={0,1,0,-1};
+        int src[]={0,0};
+        int destination[]= {n-1,m-1};
+        dist[src[0]][src[1]]=0;
+        pq.add(new Pair(0,src[0],src[1]));
 
-            while(!pq.isEmpty()){
-                Pair it= pq.poll();
-                int effort= it.dist;
-                int r= it.row;
-                int c= it.col;
+        int[] dR= {-1,0,1,0};
+        int[] dC= {0,1,0,-1};
 
-                if(r==destination[0] && c==destination[1]){
-                    return effort;
-                }
+        while(!pq.isEmpty()){
+            Pair it= pq.poll();
+            int effort= it.dist;
+            int r= it.row;
+            int c= it.col;
 
-            for(int i=0;i<4;i++){
-                int newR= r+dR[i];
-                int newC= c+dC[i];
-
-                if(newR>=0 && newR<n && newC>=0 && newC<m){
-                    int newEffort= Math.max(effort, Math.abs(heights[r][c]-heights[newR][newC]));
-
-                    if(newEffort<dist[newR][newC]){
-                        dist[newR][newC]= newEffort;
-
-                        pq.add(new Pair(newEffort,newR,newC));
-                    }
-                }
-            }
+            if(r==destination[0] && c==destination[1]){
+                return effort;
             }
 
-            return -1;
-        }}
+        for(int i=0;i<4;i++){
+            int newR= r+dR[i];
+            int newC= c+dC[i];
+
+            if(newR>=0 && newR<n && newC>=0 && newC<m){
+                int abs= Math.abs(heights[r][c]-heights[newR][newC]);
+                int newEffort= Math.max(effort,abs);
+
+                if(newEffort<dist[newR][newC]){
+                    dist[newR][newC]= newEffort;
+
+                    pq.add(new Pair(newEffort,newR,newC));
+                }
+            }
+        }
+        }
+
+        return -1;
+    }
+}
