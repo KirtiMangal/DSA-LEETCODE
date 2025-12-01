@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
+| [1631-path-with-minimum-effort](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
 | [2169-simple-bank-system](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2169-simple-bank-system) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1035-cousins-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1073-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -279,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1631-path-with-minimum-effort](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -300,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1073-number-of-enclaves](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1073-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
