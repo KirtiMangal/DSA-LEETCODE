@@ -9,6 +9,7 @@ class Pair{
         this.col=col;
     }
 }
+
 class Solution {
     public int shortestPathBinaryMatrix(int[][] grid) {
         int n= grid.length;
