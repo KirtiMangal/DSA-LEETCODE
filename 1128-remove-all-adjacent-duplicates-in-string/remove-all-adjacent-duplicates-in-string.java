@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public String removeDuplicates(String s) {
 
@@ -8,14 +6,15 @@ class Solution {
 
         for (char c : s.toCharArray()) {
 
-            // if last char is same → remove it
             if (sb.length() > 0 && sb.charAt(sb.length() - 1) == c) {
-                sb.deleteCharAt(sb.length() - 1);   // remove last
-                map.remove(c);                      // remove from map
+                sb.deleteCharAt(sb.length() - 1);   
+                map.remove(c);                      
             } 
-            else {  
-                sb.append(c);                       // add new char
-                map.put(c, 1);                      // store freq=1
+
+            else 
+            {  
+                sb.append(c);                    
+                map.put(c, 1);                     
             }
         }
 
