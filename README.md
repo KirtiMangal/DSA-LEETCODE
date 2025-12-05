@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
@@ -378,5 +380,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
