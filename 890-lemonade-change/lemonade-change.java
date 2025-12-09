@@ -3,7 +3,7 @@ class Solution {
         int five=0;
         int ten=0;
 
-        for(int bill:bills){
+        for(int bill: bills){
             if(bill==5){
                 five++;
             }
@@ -14,29 +14,28 @@ class Solution {
                     five--;
                 }
 
-                else{
-                    return false;
-                }
-            }
-
-            else{
-
-            if(five>0 && ten>0){
-                ten--;
-                five--;
-            }
-
-            else if(five>=3){
-                five-=3;
-            }
-
             else{
                 return false;
             }
         }
+
+            else{
+                if(five>0 && ten>0){
+                    ten--;
+                    five--;
+                }
+
+                else if(five>=3){
+                    five-=3;
+                }
+
+                else{
+                    return false;
+                }
+            }
+        }
+
+        return true;
         
     }
-
-    return true;
-}
 }
