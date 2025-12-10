@@ -20,5 +20,6 @@ class Solution {
         result.add(newInterval);
 
         return result.toArray(new int[result.size()][]);
+        
     }
 }
