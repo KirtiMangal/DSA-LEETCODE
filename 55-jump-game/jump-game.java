@@ -7,12 +7,13 @@ class Solution {
             if(i>max){
                 return false;
             }
-            max= Math.max(max,i+nums[i]);
+            max= Math.max(max,nums[i]+i);
+
 
             if(max>=n-1){
                 return true;
             }
         }
-            return true;
+        return true;
     }
 }
