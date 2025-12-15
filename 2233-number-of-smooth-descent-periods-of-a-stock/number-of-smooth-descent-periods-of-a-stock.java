@@ -1,14 +1,21 @@
 class Solution {
     public long getDescentPeriods(int[] prices) {
-        long ans = 1;     // first day
-        long len = 1;     // current descent length
+        long ans = 1;    
+        long len = 1; 
+        int n=prices.length;
+           
 
-        for (int i = 1; i < prices.length; i++) {
-            if (prices[i] == prices[i - 1] - 1) {
+        for (int i = 1; i <n; i++) {
+            if (prices[i] == prices[i - 1] - 1) 
+            {
                 len++;
-            } else {
+            } 
+            
+            else 
+            {
                 len = 1;
             }
+            
             ans += len;
         }
 
