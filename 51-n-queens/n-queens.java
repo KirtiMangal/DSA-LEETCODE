@@ -3,15 +3,15 @@ class Solution {
         List<List<String>> res= new ArrayList<>();
         char[][] board= new char[n][n];
 
-        for(char[] row:board){
-            Arrays.fill(row,'.');
+        for(int i=0;i<n;i++){
+            Arrays.fill(board[i],'.');
         }
 
         backtrack(0,board,res,n);
         return res;
     }
 
-    private void backtrack(int row,char[][] board,List<List<String>> res, int n){
+    private void backtrack(int row,char[][] board, List<List<String>> res, int n){
         if(row==n){
             res.add(construct(board));
             return;
@@ -26,20 +26,31 @@ class Solution {
         }
     }
 
-    private boolean isSafe(char[][] board,int row,int col,int n){
+    private boolean isSafe(char[][] board, int row,int col,int n){
         for(int i=0;i<row;i++){
             if(board[i][col]=='Q')
             return false;
         }
 
-        for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
-            if (board[i][j] == 'Q') 
+        int i=row-1;
+        int j=col-1;
+
+        while(i>=0 && j>=0){
+            if(board[i][j]=='Q')
             return false;
+
+            i--;
+            j--;
         }
 
-        for (int i = row - 1, j = col + 1; i >= 0 && j < n; i--, j++) {
-            if (board[i][j] == 'Q') 
+        i=row-1;
+        j=col+1;
+        while(i>=0 && j<n){
+            if(board[i][j]=='Q')
             return false;
+
+            i--;
+            j++;
         }
 
         return true;
@@ -47,7 +58,6 @@ class Solution {
 
     private List<String> construct(char[][] board){
         List<String> result= new ArrayList<>();
-
         for(char[] row: board){
             result.add(new String(row));
         }
