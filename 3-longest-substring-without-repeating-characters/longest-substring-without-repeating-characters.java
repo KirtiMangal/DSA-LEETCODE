@@ -7,8 +7,6 @@ class Solution {
         HashMap<Character,Integer> map= new HashMap<>();
         int left=0;
 
-
-
         for(int right=0;right<n;right++){
             char c= s.charAt(right);
 
