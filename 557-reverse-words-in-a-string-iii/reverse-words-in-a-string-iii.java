@@ -6,10 +6,10 @@ class Solution {
         int n= words.length;
         for(int i=0;i<n;i++){
             String word= words[i];
-            StringBuilder reverseWord = new StringBuilder(word);
+            StringBuilder reverseWord= new StringBuilder(word);
             result.append(reverseWord.reverse().toString()).append(" ");
-
         }
+
         return result.toString().trim();
     }
 }
