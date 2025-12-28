@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-path-with-minimum-effort](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Bit Manipulation
