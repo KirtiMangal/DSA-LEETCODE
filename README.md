@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0090-subsets-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0200-number-of-islands) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0198-house-robber) |
