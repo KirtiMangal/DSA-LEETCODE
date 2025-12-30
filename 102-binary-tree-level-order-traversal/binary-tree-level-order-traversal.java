@@ -22,10 +22,9 @@ class Solution {
 
                 if(current.right!=null){
                     q.add(current.right);
-                }
-            }
+                }}
 
-            result.add(currentlevel);
+                result.add(currentlevel);
         }
 
         return result;
