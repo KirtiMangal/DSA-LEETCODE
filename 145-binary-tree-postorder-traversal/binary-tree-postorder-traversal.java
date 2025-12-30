@@ -1,17 +1,45 @@
+// class Solution {
+//     public List<Integer> postorderTraversal(TreeNode root) {
+//         List<Integer> result= new ArrayList<>();
+//         postorder(root,result);
+//         return result;
+//     }
+
+//     public void postorder(TreeNode node, List<Integer> result){
+//         if(node==null){
+//             return;
+//         }
+
+//         postorder(node.left,result);
+//         postorder(node.right,result);
+//         result.add(node.val);
+//     }
+// }
+
+
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-        List<Integer> result= new ArrayList<>();
-        postorder(root,result);
-        return result;
-    }
+        LinkedList<Integer> result= new LinkedList<>();
 
-    public void postorder(TreeNode node, List<Integer> result){
-        if(node==null){
-            return;
+        if(root==null){
+            return result;
         }
 
-        postorder(node.left,result);
-        postorder(node.right,result);
-        result.add(node.val);
+        Stack<TreeNode> st= new Stack<>();
+        st.push(root);
+
+        while(!st.isEmpty()){
+        TreeNode current= st.pop();
+        result.addFirst(current.val);
+
+        if(current.left!=null){
+            st.push(current.left);
+        }
+
+        if(current.right!=null){
+            st.push(current.right);
+        }
     }
-}
+    
+    return result;
+}}
