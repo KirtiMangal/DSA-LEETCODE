@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0090-subsets-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
