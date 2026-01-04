@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1390-four-divisors) |
 | [1590-make-sum-divisible-by-p](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-path-with-minimum-effort](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
+| [1390-four-divisors](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1390-four-divisors) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
