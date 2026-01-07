@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1035-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1035-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
