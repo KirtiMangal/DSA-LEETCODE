@@ -17,8 +17,11 @@ class Solution {
                 TreeNode node = queue.poll();
                 currentSum += node.val;
 
-                if (node.left != null) queue.offer(node.left);
-                if (node.right != null) queue.offer(node.right);
+                if (node.left != null) 
+                queue.offer(node.left);
+
+                if (node.right != null) 
+                queue.offer(node.right);
             }
 
             if (currentSum > maxSum) {
