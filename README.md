@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0621-task-scheduler) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0953-verifying-an-alien-dictionary](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0953-verifying-an-alien-dictionary) |
 | [1590-make-sum-divisible-by-p](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1035-cousins-in-binary-tree) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1020-number-of-enclaves) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1035-cousins-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1035-cousins-in-binary-tree) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1035-cousins-in-binary-tree) |
