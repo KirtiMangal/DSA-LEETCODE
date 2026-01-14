@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3454-separate-squares-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3454-separate-squares-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3623-count-number-of-trapezoids-i](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3454-separate-squares-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3454-separate-squares-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -493,4 +495,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0796-rotate-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
