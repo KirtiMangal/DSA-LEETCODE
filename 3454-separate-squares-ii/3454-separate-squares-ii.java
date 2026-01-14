@@ -6,6 +6,7 @@ class Solution {
         long y;
         int x1, x2;
         int type; // +1 add, -1 remove
+
         Event(long y, int x1, int x2, int type) {
             this.y = y;
             this.x1 = x1;
@@ -28,10 +29,14 @@ class Solution {
         }
 
         void update(int node, int l, int r, int ql, int qr, int val) {
-            if (qr <= l || r <= ql) return;
+            if (qr <= l || r <= ql) 
+            return;
+
             if (ql <= l && r <= qr) {
                 count[node] += val;
-            } else {
+            } 
+            
+            else {
                 int mid = (l + r) / 2;
                 update(node * 2, l, mid, ql, qr, val);
                 update(node * 2 + 1, mid, r, ql, qr, val);
@@ -39,9 +44,13 @@ class Solution {
 
             if (count[node] > 0) {
                 length[node] = xs[r] - xs[l];
-            } else if (l + 1 == r) {
+            } 
+            
+            else if (l + 1 == r) {
                 length[node] = 0;
-            } else {
+            } 
+            
+            else {
                 length[node] = length[node * 2] + length[node * 2 + 1];
             }
         }
@@ -53,6 +62,7 @@ class Solution {
 
     public double separateSquares(int[][] squares) {
         int n = squares.length;
+
         List<Long> xsList = new ArrayList<>();
         List<Event> events = new ArrayList<>();
 
@@ -116,6 +126,7 @@ class Solution {
 
         for (long[] seg : segments) {
             double area = (seg[1] - seg[0]) * seg[2];
+            
             if (acc + area >= half) {
                 return seg[0] + (half - acc) / seg[2];
             }
