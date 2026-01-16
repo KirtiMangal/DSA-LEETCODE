@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2169-simple-bank-system](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3454-separate-squares-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3454-separate-squares-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [2169-simple-bank-system](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3623-count-number-of-trapezoids-i](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Geometry
 |  |
