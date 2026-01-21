@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2169-simple-bank-system](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2169-simple-bank-system) |
 ## Simulation
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
