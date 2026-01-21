@@ -4,7 +4,7 @@ class Solution {
         Stack<Character> st= new Stack<>();
 
         for(int i=0;i<n;i++){
-            if(s.charAt(i)=='(' || s.charAt(i)=='{' || s.charAt(i)=='['){
+            if(s.charAt(i)=='{' || s.charAt(i)=='(' || s.charAt(i)=='['){
                 st.push(s.charAt(i));
             }
 
@@ -14,19 +14,16 @@ class Solution {
                 }
 
                 if((st.peek()=='(' && s.charAt(i)==')' ||
-                    st.peek()=='{' && s.charAt(i)=='}' ||
-                    st.peek()=='[' && s.charAt(i)==']')){
-                        st.pop();
-                    }
+                   st.peek()=='[' && s.charAt(i)==']'||
+                   st.peek()=='{' && s.charAt(i)=='}')){
+                    st.pop();
+                   }
 
-                    else{
-                        return false;
-                    }
+                   else{
+                    return false;
+                   }
             }
-
-
         }
-
         return st.isEmpty();
     }
 }
