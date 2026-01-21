@@ -1,10 +1,10 @@
 class MinStack {
-     Stack<Integer> stack;
-        Stack<Integer> minStack;
+    Stack<Integer> stack;
+    Stack<Integer> minStack;
 
     public MinStack() {
-       stack= new Stack<>();
-       minStack= new Stack<>();
+        stack= new Stack<>();
+        minStack= new Stack<>();
     }
     
     public void push(int val) {
@@ -15,9 +15,7 @@ class MinStack {
         }
 
         else{
-            minStack.push(Math.min(val, minStack.peek()));
-                        //minStack.push(Math.min(val, minStack.peek()));
-
+            minStack.push(Math.min(val,minStack.peek()));
         }
     }
     
