@@ -1,9 +1,9 @@
-import java.util.*;
-
 class Solution {
     public int minimumPairRemoval(int[] nums) {
         List<Integer> arr = new ArrayList<>();
-        for (int x : nums) arr.add(x);
+
+        for (int x : nums) 
+        arr.add(x);
 
         int operations = 0;
 
