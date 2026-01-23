@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3454-separate-squares-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3454-separate-squares-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3623-count-number-of-trapezoids-i](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3623-count-number-of-trapezoids-i](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
 ## Tree
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## String
 |  |
 | ------- |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1631-path-with-minimum-effort](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0456-132-pattern) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -530,4 +535,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3454-separate-squares-ii) |
+## Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
