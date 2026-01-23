@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
