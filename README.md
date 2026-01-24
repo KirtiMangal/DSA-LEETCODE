@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0093-restore-ip-addresses) |
