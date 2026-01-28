@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
 | [1390-four-divisors](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1390-four-divisors) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1903-largest-odd-number-in-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1903-largest-odd-number-in-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2211-count-collisions-on-a-road](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sliding Window
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0985-bag-of-tokens) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
+| [1903-largest-odd-number-in-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Dynamic Programming
