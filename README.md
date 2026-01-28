@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0917-reverse-only-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0953-verifying-an-alien-dictionary) |
+| [1021-remove-outermost-parentheses](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 ## Binary Search Tree
