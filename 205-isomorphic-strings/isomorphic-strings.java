@@ -5,7 +5,7 @@ class Solution {
         
 
         if(n!=m){
-            return true;
+            return false;
         }
 
         Map<Character,Character> map1= new HashMap<>();
