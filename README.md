@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0541-reverse-string-ii) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
