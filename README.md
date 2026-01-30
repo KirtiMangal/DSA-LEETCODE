@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2211-count-collisions-on-a-road](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Stack
 |  |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -563,4 +567,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
