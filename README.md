@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0134-gas-station) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0152-maximum-product-subarray) |
