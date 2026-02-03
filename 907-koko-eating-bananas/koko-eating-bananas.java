@@ -29,7 +29,7 @@ public int getMax(int[] piles){
 }
 
 public boolean canFinish(int[] piles, int k,int h){
-    long totalhrs=0;
+   long totalhrs=0;
 
     for(int pile:piles){
         totalhrs+= (pile+k-1)/k;
