@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0890-lemonade-change) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0953-verifying-an-alien-dictionary) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0456-132-pattern) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
