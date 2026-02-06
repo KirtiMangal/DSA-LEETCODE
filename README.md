@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0985-bag-of-tokens) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1004-max-consecutive-ones-iii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-number-of-enclaves](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1036-rotting-oranges) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
