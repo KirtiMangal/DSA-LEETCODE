@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0621-task-scheduler) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -612,4 +615,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0204-count-primes) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
