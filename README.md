@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0319-bulb-switcher](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
 | [1390-four-divisors](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1390-four-divisors) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0456-132-pattern](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
