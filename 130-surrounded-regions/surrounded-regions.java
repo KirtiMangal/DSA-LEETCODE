@@ -29,7 +29,7 @@ class Solution {
                     board[i][j]='X';
                 }
 
-                else if(board[i][j]=='T'){
+                else if(board[i][j]=='#'){
                     board[i][j]='O';
                 }
             }
@@ -44,7 +44,7 @@ class Solution {
             return;
         }
 
-        board[i][j]='T';
+        board[i][j]='#';
 
         dfs(board,i+1,j);
         dfs(board,i-1,j);
