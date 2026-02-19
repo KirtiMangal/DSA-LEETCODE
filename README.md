@@ -645,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0596-classes-with-at-least-5-students) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
