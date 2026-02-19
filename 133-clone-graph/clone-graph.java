@@ -1,8 +1,8 @@
 class Solution {
-    HashMap<Node,Node> map= new HashMap<>();
+    private HashMap<Node,Node> map= new HashMap<>();
 
     public Node cloneGraph(Node node) {
-        
+
         if(node==null){
             return null;
         }
