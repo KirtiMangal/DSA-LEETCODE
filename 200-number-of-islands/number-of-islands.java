@@ -1,26 +1,25 @@
 class Solution {
     public int numIslands(char[][] grid) {
-        int m= grid.length;
-        int n= grid[0].length;
+        int n= grid.length;
+        int m= grid[0].length;
         int count=0;
 
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
                 if(grid[i][j]=='1'){
                     count++;
                     dfs(grid,i,j);
                 }
             }
         }
-
         return count;
     }
 
-    public static void dfs(char grid[][], int i, int j){
-        int m= grid.length;
-        int n= grid[0].length;
+    public static void dfs(char[][] grid,int i, int j){
+        int n= grid.length;
+        int m= grid[0].length;
 
-        if(i<0 || i>=m || j<0 || j>=n || grid[i][j]!='1'){
+        if(i<0 || i>=n || j<0 || j>=m || grid[i][j]!='1'){
             return;
         }
 
