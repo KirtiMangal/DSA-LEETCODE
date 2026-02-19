@@ -17,51 +17,43 @@ class Solution {
             }
         }
 
-                if(count==0){
-                    return 0;
-                }
-
-        int time=0;
-        while(!q.isEmpty()){
-            int size= q.size();
-            
-            for(int i=0;i<size;i++){
-                int[] rottenLoc= q.poll();
-                int r= rottenLoc[0];
-                int c= rottenLoc[1];
-
-            int[][] neighbours= {
-                {r-1,c},
-                {r+1,c},
-                {r,c+1},
-                {r,c-1}
-            };
-
-            for(int neighbour[]: neighbours){
-                int nr= neighbour[0];
-                int nc= neighbour[1];
-
-                if(nr<0 || nr>=n || nc<0 || nc>=m){
-                    continue;
-                }
-
-                else if(grid[nr][nc]!=1){
-                    continue;
-                }
-
-                q.add(new int[]{nr,nc});
-                grid[nr][nc]=2;
-                count--;
-
-                if(count==0){
-                    return time+1;
-                }
-            }
+        if(count==0){
+            return 0;
         }
 
-        time++;
-    }
+        int time=0;
+        while(!q.isEmpty() && count>0){
+            int size= q.size();
 
-    return -1;
-}
+            int[][] directions= 
+            {
+                {0,1},
+                {1,0},
+                {-1,0},
+                {0,-1}
+
+            };
+
+            for(int i=0;i<size;i++){
+                int[] curr= q.poll();
+                int r= curr[0];
+                int c= curr[1];
+
+                for(int dir[]: directions){
+                    int nr= r+dir[0];
+                    int nc= c+dir[1];
+
+                    if(nr<n && nr>=0 && nc<m && nc>=0 && grid[nr][nc]==1){
+                        grid[nr][nc]=2;
+                        q.add(new int[]{nr,nc});
+                        count--;
+                    }
+                }
+            }
+
+            time++;
+        }
+
+        return count==0 ? time:-1;
+    }
 }
