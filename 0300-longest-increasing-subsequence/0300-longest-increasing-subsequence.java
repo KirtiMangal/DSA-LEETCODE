@@ -8,15 +8,14 @@ class Solution {
 
         for(int i=1;i<n;i++){
             for(int j=0;j<i;j++){
-
                 if(nums[j]<nums[i]){
                     dp[i]= Math.max(dp[i], dp[j]+1);
                 }
             }
 
-                    max= Math.max(max, dp[i]);
-                }
+            max= Math.max(max,dp[i]);
+        }
 
-                return max;
-            }
+        return max;
     }
+}
