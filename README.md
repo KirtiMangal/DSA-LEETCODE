@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0093-restore-ip-addresses) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0055-jump-game) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
 ## Memoization
