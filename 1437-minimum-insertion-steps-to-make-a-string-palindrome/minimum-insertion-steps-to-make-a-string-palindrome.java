@@ -1,9 +1,11 @@
 class Solution {
     public int minInsertions(String s) {
         int n= s.length();
+
         String t= new StringBuilder(s).reverse().toString();
 
         int[][] dp= new int[n+1][n+1];
+
         for(int i=1;i<=n;i++){
             for(int j=1;j<=n;j++){
                 if(s.charAt(i-1)==t.charAt(j-1)){
@@ -16,6 +18,6 @@ class Solution {
             }
         }
 
-         return n-dp[n][n];
+        return n- dp[n][n];
     }
 }
