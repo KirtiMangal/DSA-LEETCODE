@@ -4,7 +4,7 @@ class Solution {
         int m= p.length();
 
         boolean[][] dp= new boolean[n+1][m+1];
-        dp[0][0] = true;
+        dp[0][0]= true;
 
         for(int j=2;j<=m;j++){
             if(p.charAt(j-1)=='*'){
@@ -20,13 +20,14 @@ class Solution {
 
                 if(p.charAt(j-1)=='*'){
                     dp[i][j]= dp[i][j-2];
-                    if(s.charAt(i-1)== p.charAt(j-2) || p.charAt(j-2)=='.'){
-                    dp[i][j]= dp[i-1][j] || dp[i][j];
+
+                    if(s.charAt(i-1)==p.charAt(j-2) || p.charAt(j-2)=='.'){
+                        dp[i][j]= dp[i][j] || dp[i-1][j];
+                    }
                 }
             }
         }
 
-        }
         return dp[n][m];
     }
 }
