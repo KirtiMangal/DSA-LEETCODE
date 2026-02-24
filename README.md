@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0064-minimum-path-sum) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0054-spiral-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2169-simple-bank-system](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2211-count-collisions-on-a-road) |
