@@ -1,0 +1,10 @@
+# Write your MySQL query statement below
+-- SELECT *
+-- FROM Users
+-- WHERE name REGEXP '^[A-Z][a-z]*$';
+
+SELECT user_id, 
+CONCAT(UPPER(LEFT(name,1)),
+LOWER(RIGHT(name, LENGTH(name)-1))) AS name
+FROM Users
+ORDER BY user_id;
