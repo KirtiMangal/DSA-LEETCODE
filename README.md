@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1390-four-divisors) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-path-with-minimum-effort](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1631-path-with-minimum-effort](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1975-maximum-matrix-sum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1975-maximum-matrix-sum) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0890-lemonade-change) |
 | [0985-bag-of-tokens](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0985-bag-of-tokens) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
