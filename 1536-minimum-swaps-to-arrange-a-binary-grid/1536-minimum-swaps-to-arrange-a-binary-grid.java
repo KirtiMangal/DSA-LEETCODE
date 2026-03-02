@@ -3,12 +3,15 @@ class Solution {
         int n = grid.length;
         int[] trailingZeros = new int[n];
         
-        // Step 1: Count trailing zeros
         for (int i = 0; i < n; i++) {
             int count = 0;
             for (int j = n - 1; j >= 0; j--) {
-                if (grid[i][j] == 0) count++;
-                else break;
+                if (grid[i][j] == 0) 
+                count++;
+
+                else {
+                break;
+            }
             }
             trailingZeros[i] = count;
         }
@@ -24,13 +27,15 @@ class Solution {
                 j++;
             }
             
-            if (j == n) return -1;
+            if (j == n) 
+            return -1;
             
             // Bring row j to position i
             while (j > i) {
                 int temp = trailingZeros[j];
                 trailingZeros[j] = trailingZeros[j - 1];
                 trailingZeros[j - 1] = temp;
+
                 swaps++;
                 j--;
             }
