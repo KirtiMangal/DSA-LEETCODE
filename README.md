@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0274-h-index) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
