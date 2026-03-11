@@ -4,10 +4,12 @@ class Solution {
         int first= findFirst(nums,target);
         int last= findLast(nums,target);
 
-        return new int[]{first,last};
+        int[] a= {first, last};
+
+        return a;
     }
 
-        private int findFirst(int[] nums,int target){
+        private int findFirst(int[] nums, int target){
             int n= nums.length;
             int low=0;
             int high= n-1;
@@ -26,7 +28,7 @@ class Solution {
                 }
 
                 else{
-                    high=mid-1;
+                    high= mid-1;
                 }
             }
 
@@ -57,5 +59,5 @@ class Solution {
             }
 
             return ans;
+        }
     }
-}
