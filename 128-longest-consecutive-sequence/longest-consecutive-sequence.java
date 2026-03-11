@@ -3,7 +3,7 @@ import java.util.*;
 class Solution {
     public int longestConsecutive(int[] nums) {
         int n= nums.length;
-        int longest = 1;
+        int len = 1;
         int count = 1;
 
         if(n == 0) 
@@ -20,13 +20,14 @@ class Solution {
             if(nums[i] == nums[i-1] + 1){
                 count++;
             }
+
             else{
                 count = 1;
             }
 
-            longest = Math.max(longest, count);
+            len = Math.max(len, count);
         }
 
-        return longest;
+        return len;
     }
 }
