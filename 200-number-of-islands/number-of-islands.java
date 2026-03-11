@@ -8,14 +8,16 @@ class Solution {
             for(int j=0;j<m;j++){
                 if(grid[i][j]=='1'){
                     count++;
+
                     dfs(grid,i,j);
                 }
             }
         }
+
         return count;
     }
 
-    public static void dfs(char[][] grid,int i, int j){
+    public static void dfs(char[][] grid,int i,int j){
         int n= grid.length;
         int m= grid[0].length;
 
