@@ -4,7 +4,7 @@ COUNT(DISTINCT product) AS num_sold,
 GROUP_CONCAT(
     DISTINCT product
     ORDER BY product 
-    -- SEPARATOR ','
+    SEPARATOR ','
 )
 AS products 
 
