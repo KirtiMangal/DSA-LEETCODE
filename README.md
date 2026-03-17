@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0455-assign-cookies) |
