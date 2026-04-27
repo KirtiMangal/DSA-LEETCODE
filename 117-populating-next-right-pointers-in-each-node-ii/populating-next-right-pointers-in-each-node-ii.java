@@ -38,10 +38,10 @@ class Solution {
                 Node curr= q.poll();
 
                 if(prev!=null){
-                    prev.next=curr;
+                    prev.next= curr;
                 }
 
-                prev= curr;
+                prev=curr;
 
             if(curr.left!=null){
                 q.add(curr.left);
@@ -50,11 +50,11 @@ class Solution {
             if(curr.right!=null){
                 q.add(curr.right);
             }
-            }
+        }
 
         prev.next=null;
     }
 
     return root;
-        }
+}
 }
