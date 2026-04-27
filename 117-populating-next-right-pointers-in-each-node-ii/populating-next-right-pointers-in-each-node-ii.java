@@ -41,20 +41,20 @@ class Solution {
                     prev.next=curr;
                 }
 
-                prev=curr;
+                prev= curr;
 
-                if(curr.left!=null){
-                    q.add(curr.left);
-                }
-
-                if(curr.right!=null){
-                    q.add(curr.right);
-                }
+            if(curr.left!=null){
+                q.add(curr.left);
             }
 
-            prev.next=null;
-        }
+            if(curr.right!=null){
+                q.add(curr.right);
+            }
+            }
 
-        return root;
+        prev.next=null;
     }
+
+    return root;
+        }
 }
