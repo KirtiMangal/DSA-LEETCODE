@@ -17,6 +17,7 @@ class Solution {
             }
         }
 
-        return n+m-2*dp[n][m];
+        int lcs= dp[n][m];
+        return n+m-2*lcs;
     }
 }
