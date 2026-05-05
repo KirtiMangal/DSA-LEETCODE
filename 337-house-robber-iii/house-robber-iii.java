@@ -15,24 +15,26 @@
  */
 class Solution {
     public int rob(TreeNode root) {
-
         int[] res= dfs(root);
         return Math.max(res[0],res[1]);
-
+        
     }
 
-        private int[] dfs(TreeNode node){
-            if(node==null){
-                return new int[] {0,0};
-            }
+    private int[] dfs(TreeNode node){
 
-            int[] left= dfs(node.left);
-            int[] right= dfs(node.right);
+        if(node==null)
+            return new int[]{0,0};
 
-            int rob= node.val + left[1] + right[1];
+        int left[]= dfs(node.left);
+        int right[]= dfs(node.right);
 
-            int notrob= Math.max(left[0],left[1]) + Math.max(right[0],right[1]);
+        int rob= node.val + left[1] + right[1];
 
-            return new int[] {rob,notrob};
+        int notrob= Math.max(left[0],left[1]) + Math.max(right[0],right[1]);
+
+            return new int[]{rob,notrob};
+
+
+
     }
 }
