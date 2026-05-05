@@ -19,26 +19,28 @@ class Solution {
         postIndex= postorder.length-1;
 
         Map<Integer,Integer> map= new HashMap<>();
+
         for(int i=0;i<inorder.length;i++){
             map.put(inorder[i],i);
         }
 
-        return helper(inorder,postorder,0,inorder.length-1,map);
+        return helper(postorder,0,inorder.length-1,map);
     }
 
-    public TreeNode helper(int[] inorder,int[] postorder, int inStart, int inEnd, Map<Integer,Integer> map){
         
-        if(inStart>inEnd){
-            return null;
-        }
-
-        int rootVal= postorder[postIndex--];
-        TreeNode root= new TreeNode(rootVal);
-        int inIndex= map.get(rootVal);
-
-        root.right= helper(inorder,postorder,inIndex+1,inEnd,map);
-        root.left= helper(inorder,postorder, inStart, inIndex-1,map);
-
-        return root;
+        public TreeNode helper(int[] postorder,int inStart,int inEnd, Map<Integer,Integer> map){
+            if(inStart>inEnd){
+                return null;
             }
-}
+
+            int rootVal= postorder[postIndex--];
+            TreeNode root= new TreeNode(rootVal);
+
+            int index= map.get(rootVal);
+
+            root.right= helper(postorder,index+1,inEnd,map);
+            root.left= helper(postorder,inStart,index-1,map);
+
+            return root;
+        }
+    }
