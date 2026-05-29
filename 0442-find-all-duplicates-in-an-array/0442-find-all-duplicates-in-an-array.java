@@ -2,13 +2,13 @@ class Solution {
 
     public List<Integer> findDuplicates(int[] nums) {
 
-        List<Integer> ans = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
         HashSet<Integer> set = new HashSet<>();
 
         for(int num : nums) {
 
             if(set.contains(num)) {
-                ans.add(num);
+                list.add(num);
             } 
             
             else {
@@ -16,6 +16,6 @@ class Solution {
             }
         }
 
-        return ans;
+        return list;
     }
 }
