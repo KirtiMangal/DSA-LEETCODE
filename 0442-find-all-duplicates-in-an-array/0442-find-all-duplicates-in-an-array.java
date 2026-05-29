@@ -4,15 +4,16 @@ class Solution {
 
         List<Integer> list = new ArrayList<>();
         HashSet<Integer> set = new HashSet<>();
+        int n= nums.length;
 
-        for(int num : nums) {
+        for(int i=0;i<n;i++){ 
 
-            if(set.contains(num)) {
-                list.add(num);
+            if(set.contains(nums[i])) {
+                list.add(nums[i]);
             } 
             
             else {
-                set.add(num);
+                set.add(nums[i]);
             }
         }
 
