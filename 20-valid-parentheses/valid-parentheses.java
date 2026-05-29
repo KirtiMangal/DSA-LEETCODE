@@ -13,7 +13,7 @@ class Solution {
                     return false;
                 }
 
-                if((st.peek()=='(' && s.charAt(i)==')' || 
+                if((st.peek()=='(' && s.charAt(i)==')' ||
                     st.peek()=='{' && s.charAt(i)=='}' ||
                     st.peek()=='[' && s.charAt(i)==']')){
                         st.pop();
