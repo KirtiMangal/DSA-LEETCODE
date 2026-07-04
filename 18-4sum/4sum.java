@@ -1,35 +1,60 @@
+// class Solution {
+//     public List<List<Integer>> fourSum(int[] nums, int target) {
+//         int n= nums.length;
+
+//         Set<List<Integer>> set= new HashSet<>();
+
+//         for(int i=0;i<n;i++){
+//             for(int j=i+1;j<n;j++){
+//                 for(int k=j+1;j<n;k++){
+//                     for(int l=k+1;l<n;l++){
+//                         long sum= (long) nums[i]+nums[j]+nums[k]+nums[l];
+//                         if(sum==target){
+//                             List<Integer> temp= Arrays.asList(nums[i],nums[j],nums[k],nums[l]);
+
+//                             Collections.sort(temp);
+//                             set.add(temp);
+//                         }
+//                     }
+//                 }
+//             }
+//         }
+
+//         return new ArrayList<>(set);
+
+//     }
+// }
+
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         int n= nums.length;
+        Set<List<Integer>> set= new HashSet<>();
         Arrays.sort(nums);
-        Set<List<Integer>> result= new HashSet<>();
 
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
-            int left=j+1;
-            int right= n-1;
+                int k= j+1;
+                int l= n-1;
 
-            while(left<right){
-                long sum= (long) nums[i]+ nums[j] + nums[left]+ nums[right];
+                while(k<l){
+                    long sum= (long) nums[i]+nums[j]+nums[k]+nums[l];
+                    if(sum==target){
+                        set.add(Arrays.asList(nums[i],nums[j],nums[k],nums[l]));
 
-                if(sum==target){
-                    result.add(Arrays.asList(nums[i],nums[j],nums[left],nums[right]));
+                        k++;
+                        l--;
+                    }
 
-                    left++;
-                    right--;
-                }
+                    else if(sum<target){
+                        k++;
+                    }
 
-                else if(sum<target){
-                    left++;
-                }
-
-                else{
-                    right--;
+                    else{
+                        l--;
+                    }
                 }
             }
         }
-        }
 
-        return new ArrayList<>(result);
-    }
-}
+        return new ArrayList<>(set);
+    }}
