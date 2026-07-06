@@ -1,21 +1,43 @@
+// class Solution {
+//     public int subarraySum(int[] nums, int k) {
+//         int n= nums.length;
+//         int ans=0;
+
+//         for(int i=0;i<n;i++){
+//             int sum=0;
+//             for(int j=i;j<n;j++){
+//                 // If initializing here, then counting sum as 0 again and again in inner loop int sum=0;
+//                 sum+= nums[j];
+
+//                 if(sum==k){
+//                     ans++;
+//                 }
+//             }
+
+//         }
+        
+//         return ans;
+//     }
+// }
+
 class Solution {
     public int subarraySum(int[] nums, int k) {
         int n= nums.length;
-        int ans=0;
+
+        Map<Integer,Integer> map= new HashMap<>();
+        map.put(0,1);
+        int sum=0;
+        int count=0;
 
         for(int i=0;i<n;i++){
-            int sum=0;
-            for(int j=i;j<n;j++){
-                // If initializing here, then counting sum as 0 again and again in inner loop int sum=0;
-                sum+= nums[j];
+            sum+= nums[i];
 
-                if(sum==k){
-                    ans++;
-                }
+            if(map.containsKey(sum-k)){
+                count+= map.get(sum-k);
             }
 
+            map.put(sum,map.getOrDefault(sum,0)+1);
         }
-        
-        return ans;
-    }
-}
+
+        return count;
+    }}
