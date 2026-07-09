@@ -14,30 +14,36 @@
  * }
  */
 class Solution {
-    int cameras=0;
+    int sum=0;
     public int minCameraCover(TreeNode root) {
-
         if(dfs(root)==0)
-        cameras++;
-        return cameras;
+        {
+            sum++;
+        }
+            return sum;
     }
-
+        
+        
         private int dfs(TreeNode node){
+
             if(node==null){
-                return 2;
+                return 1;
             }
 
             int left= dfs(node.left);
             int right= dfs(node.right);
 
             if(left==0 || right==0){
-                cameras++;
+                sum++;
+                return 2;
+            }
+
+            else if(left==2 || right==2){
                 return 1;
             }
 
-            if(left==1 || right==1)
-            return 2;
-
-            return 0;
-    }
+            else{
+                return 0;
+            }
+        }
 }
