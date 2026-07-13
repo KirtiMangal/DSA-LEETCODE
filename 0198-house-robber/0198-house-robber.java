@@ -1,26 +1,19 @@
 class Solution {
     public int rob(int[] nums) {
         int n= nums.length;
-        Integer[] dp= new Integer[n];
-        return solve(nums,0,dp);
+        int prev1= nums[0];
+        int prev2= 0;
+
+        for(int i=1;i<n;i++){
+            int take= nums[i]+prev2;
+            int nottake= prev1;
+
+            int curr= Math.max(take,nottake);
+
+            prev2= prev1;
+            prev1= curr;
+        }
         
+        return prev1;
     }
-
-private int solve(int[] nums,int i,Integer[] dp){
-    int n= nums.length;
-    if(i>=n){
-        return 0;
-    }
-
-    if(dp[i]!=null){
-        return dp[i];
-    }
-
-    int take= nums[i]+ solve(nums,i+2,dp);
-    int nottake= solve(nums,i+1,dp);
-
-    dp[i]=  Math.max(take,nottake);
-
-    return dp[i];
-}
 }
