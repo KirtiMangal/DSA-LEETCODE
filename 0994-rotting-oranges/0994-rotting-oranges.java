@@ -2,13 +2,13 @@ class Solution {
     public int orangesRotting(int[][] grid) {
         int n= grid.length;
         int m= grid[0].length;
-        int count=0;
+        int fresh=0;
 
         Queue<int[]> q= new LinkedList<>();
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(grid[i][j]==1){
-                    count++;
+                    fresh++;
                 }
 
                 else if(grid[i][j]==2){
@@ -17,51 +17,36 @@ class Solution {
             }
         }
 
-                if(count==0){
-                    return 0;
-                }
-
-        int time=0;
-        while(!q.isEmpty()){
-            int size= q.size();
-            
-            for(int i=0;i<size;i++){
-                int[] rottenLoc= q.poll();
-                int r= rottenLoc[0];
-                int c= rottenLoc[1];
-
-            int[][] neighbours= {
-                {r-1,c},
-                {r+1,c},
-                {r,c+1},
-                {r,c-1}
-            };
-
-            for(int neighbour[]: neighbours){
-                int nr= neighbour[0];
-                int nc= neighbour[1];
-
-                if(nr<0 || nr>=n || nc<0 || nc>=m){
-                    continue;
-                }
-
-                else if(grid[nr][nc]!=1){
-                    continue;
-                }
-
-                q.add(new int[]{nr,nc});
-                grid[nr][nc]=2;
-                count--;
-
-                if(count==0){
-                    return time+1;
-                }
-            }
+        if(fresh==0){
+            return 0;
         }
 
-        time++;
-    }
+        int time=0;
+        while(!q.isEmpty() && fresh>0){
+            int size= q.size();
 
-    return -1;
-}
+            int[][] dir= {{0,1},{1,0},{-1,0},{0,-1}};
+
+            for(int i=0;i<size;i++){
+                int[] curr= q.poll();
+                int r= curr[0];
+                int c= curr[1];
+
+                for(int[] directions: dir){
+                    int newR= r+directions[0];
+                    int newC= c+directions[1];
+
+                    while(newR<n && newR>=0 && newC<m && newC>=0 && grid[newR][newC]==1){
+                        grid[newR][newC]=2;
+                        q.add(new int[]{newR,newC});
+                        fresh--;
+                    }
+                }
+            }
+
+            time++;
+        }
+
+        return fresh==0? time:-1;
+    }
 }
