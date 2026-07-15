@@ -4,7 +4,7 @@ class Solution {
         int m= word2.length();
 
         int[][] dp= new int[n+1][m+1];
-        
+
         for(int i=0;i<=n;i++){
             dp[i][0]=i;
         }
@@ -20,7 +20,7 @@ class Solution {
                 }
 
                 else{
-                    dp[i][j]= 1+ Math.min(dp[i-1][j-1], Math.min(dp[i][j-1],dp[i-1][j]));
+                    dp[i][j]= 1+ Math.min(dp[i-1][j-1], Math.min(dp[i-1][j],dp[i][j-1]));
                 }
             }
         }
