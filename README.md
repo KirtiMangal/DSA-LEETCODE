@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0860-lemonade-change) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2211-count-collisions-on-a-road) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0739-daily-temperatures) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Divide and Conquer
 |  |
