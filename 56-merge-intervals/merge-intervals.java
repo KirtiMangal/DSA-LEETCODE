@@ -20,6 +20,11 @@ class Solution {
         }
 
             result.add(curr);
-            return result.toArray(new int[result.size()][]);
+            // return result.toArray(new int[result.size()][]);
+            int[][] ans = new int[result.size()][];
+
+ans = result.toArray(ans);
+
+return ans;
     }
 }
