@@ -1,25 +1,47 @@
+// class Solution {
+//     public int rob(int[] nums) {
+//         int n= nums.length;
+//         int prev2=0;
+//         int prev1=0;
+
+//         for(int i=0;i<n;i++){
+//             int max= Math.max(prev1,prev2+nums[i]);
+//             prev2=prev1;
+//             prev1=max;
+//         }
+
+//         return prev1;
+//     }
+// }
+
 class Solution {
+
     public int rob(int[] nums) {
+
         int n = nums.length;
-        if (n == 1) return nums[0];
 
-        Integer[] dp1 = new Integer[n];
-        int case1 = solve(nums, 0, n - 2, dp1);
+        if (n == 1)
+            return nums[0];
 
-        Integer[] dp2 = new Integer[n];
-        int case2 = solve(nums, 1, n - 1, dp2);
-
-        return Math.max(case1, case2);
+        return Math.max(
+            solve(nums, 0, n - 2), // Exclude last house
+            solve(nums, 1, n - 1)  // Exclude first house
+        );
     }
 
-    private int solve(int[] nums, int i, int j, Integer[] dp) {
-        if (i > j) return 0;
+    private int solve(int[] nums, int start, int end) {
 
-        if (dp[i] != null) return dp[i];
+        int prev2 = 0;
+        int prev1 = 0;
 
-        int take = nums[i] + solve(nums, i + 2, j, dp);
-        int notTake = solve(nums, i + 1, j, dp);
+        for (int i = start; i <= end; i++) {
 
-        return dp[i] = Math.max(take, notTake);
+            int curr = Math.max(prev1, prev2 + nums[i]);
+
+            prev2 = prev1;
+            prev1 = curr;
+        }
+
+        return prev1;
     }
 }
