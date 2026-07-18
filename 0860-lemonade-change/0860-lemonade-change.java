@@ -15,28 +15,28 @@ class Solution {
                     ten++;
                 }
 
-                else{
-                    return false;
-                }
-            }
-
             else{
-                if(five>0 && ten>0){
-                    ten--;
-                    five--;
-                }
-
-                else if(five>=3){
-                    five-=3;
-                }
-
-                else{
-                    return false;
-                }
+                return false;
             }
         }
 
-        return true;
+        else{
+            if(five>0 && ten>0){
+                ten--;
+                five--;
+            }
+
+            else if(five>=3){
+                five-=3;
+            }
+
+            else{
+                return false;
+            }
+        }
 
     }
+
+    return true;
+}
 }
