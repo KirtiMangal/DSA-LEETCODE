@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0204-count-primes) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0268-missing-number) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0344-reverse-string) |
