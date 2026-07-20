@@ -10,6 +10,7 @@ class Solution {
         }
 
         Stack<int[]> st= new Stack<>();
+
         for(char ch: s.toCharArray()){
             if(!st.isEmpty() && st.peek()[0]==ch){
                 st.peek()[1]++;
