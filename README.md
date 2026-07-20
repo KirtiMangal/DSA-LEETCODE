@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0322-coin-change) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0455-assign-cookies) |
