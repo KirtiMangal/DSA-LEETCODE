@@ -20,7 +20,7 @@ class Solution {
         return max;
     }
 
-    private int height(TreeNode root){
+    public int height(TreeNode root){
         if(root==null){
             return 0;
         }
