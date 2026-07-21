@@ -1,40 +1,67 @@
 class Solution {
     public int maximalRectangle(char[][] matrix) {
+        if(matrix==null || matrix.length==0){
+            return 0;
+        }
+
         int n= matrix.length;
+        int m= matrix[0].length;
 
-        if (n == 0) 
-        return 0;
+        int[] heights= new int[m];
+        int maxArea=0;
 
-        int cols = matrix[0].length;
-        int[] height = new int[cols];
-        int max = 0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(matrix[i][j]=='1'){
+                    heights[j]++;
+                }
 
-        for (char[] row : matrix) {
-            for (int j = 0; j < cols; j++) {
-                height[j] = row[j] == '1' ? height[j] + 1 : 0;
+                else{
+                    heights[j]=0;
+                }
             }
 
-            max = Math.max(max, largestHistogram(height));
+            maxArea= Math.max(maxArea, largestRectangleArea(heights));
         }
-        return max;
+
+        return maxArea;
+        
     }
 
-    int largestHistogram(int[] h) {
-        Stack<Integer> st = new Stack<>();
-        int max = 0;
-        int m= h.length;
+    public int largestRectangleArea(int[] heights){
+        int n= heights.length;
+        int[] left= new int[n];
+        int[] right= new int[n];
 
-        for (int i = 0; i <= m; i++) {
-            int curr = (i == m) ? 0 : h[i];
-
-            while (!st.isEmpty() && curr < h[st.peek()]) {
-                int height = h[st.pop()];
-                int width = st.isEmpty() ? i : i - st.peek() - 1;
-                max = Math.max(max, height * width);
+        Stack<Integer> st= new Stack<>();
+        for(int i=0;i<n;i++){
+            while(!st.isEmpty() && heights[st.peek()]>=heights[i]){
+                st.pop();
             }
 
+            left[i]= st.isEmpty()?-1:st.peek();
             st.push(i);
         }
-        return max;
+
+        st.clear();
+
+        for(int i=n-1;i>=0;i--){
+            while(!st.isEmpty() && heights[st.peek()]>=heights[i]){
+                st.pop();
+            }
+
+            right[i]= st.isEmpty()?n:st.peek();
+            st.push(i);
+        }
+
+        int maxArea=0;
+        for(int i=0;i<n;i++){
+            int width= right[i]-left[i]-1;
+            int area= heights[i]*width;
+
+            maxArea= Math.max(maxArea,area);
+        }
+
+        return maxArea;
     }
 }
