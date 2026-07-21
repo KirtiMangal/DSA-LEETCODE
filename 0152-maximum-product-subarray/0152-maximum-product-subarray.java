@@ -10,10 +10,11 @@ class Solution {
                 product*=nums[j];
 
                 if(product>max){
-                    max= product;
+                    max=product;
                 }
             }
         }
+
         return max;
     }
 }
