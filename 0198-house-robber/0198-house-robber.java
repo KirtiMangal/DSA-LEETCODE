@@ -10,6 +10,7 @@ class Solution {
             prev1=max;
         }
 
-    return prev1;
-}
+        return prev1;
+        
+    }
 }
