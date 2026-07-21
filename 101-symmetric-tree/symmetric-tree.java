@@ -15,19 +15,26 @@
  */
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-        return (root==null || isSymmetricCheck(root.left,root.right));
+        if(root==null){
+            return true;
+        }
+
+        return isMirror(root.left,root.right);
     }
 
-    private boolean isSymmetricCheck(TreeNode left, TreeNode right){
+    private boolean isMirror(TreeNode left, TreeNode right){
+        if(left==null && right==null){
+            return true;
+        }
+
         if(left==null || right==null){
-            return (left==right);
+            return false;
         }
 
         if(left.val!=right.val){
             return false;
         }
 
-        return isSymmetricCheck(left.left,right.right) && 
-               isSymmetricCheck(left.right,right.left);
+        return isMirror(left.left,right.right) && isMirror(left.right,right.left);
     }
 }
