@@ -27,22 +27,22 @@ class Solution {
             int size= q.size();
 
             for(int i=0;i<size;i++){
-                TreeNode current= q.poll();
+                TreeNode curr= q.poll();
 
                 if(i==size-1){
-                    result.add(current.val);
+                    result.add(curr.val);
                 }
 
-                if(current.left!=null){
-                    q.add(current.left);
+                if(curr.left!=null){
+                    q.add(curr.left);
                 }
 
-                if(current.right!=null){
-                    q.add(current.right);
+                if(curr.right!=null){
+                    q.add(curr.right);
                 }
             }
         }
 
-            return result;
+        return result;
     }
 }
