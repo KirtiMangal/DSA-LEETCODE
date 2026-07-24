@@ -22,7 +22,7 @@ class Solution {
 
         Queue<TreeNode> q= new LinkedList<>();
         q.add(root);
-
+        
         while(!q.isEmpty()){
             int size= q.size();
 
