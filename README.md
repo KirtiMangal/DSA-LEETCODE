@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
