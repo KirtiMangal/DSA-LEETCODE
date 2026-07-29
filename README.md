@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0853-car-fleet](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0853-car-fleet) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Divide and Conquer
 |  |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0621-task-scheduler) |
+| [0853-car-fleet](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0853-car-fleet) |
 | [0985-bag-of-tokens](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0985-bag-of-tokens) |
 | [1829-maximum-units-on-a-truck](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
