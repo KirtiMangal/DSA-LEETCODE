@@ -3,28 +3,23 @@ class Solution {
         int n= nums.length;
         int[] ans= new int[n-k+1];
 
-        Deque<Integer> q= new ArrayDeque<>();
-        int i=0;
-        int j=0;
+        Deque<Integer> dq= new LinkedList<>();
         int idx=0;
-        
-        while(j<n){
-            while(!q.isEmpty() && nums[q.peekLast()]<=nums[j]){
-                q.pollLast();
+
+        for(int i=0;i<n;i++){
+            if(!dq.isEmpty() && dq.peekFirst()<=i-k){
+                dq.pollFirst();
             }
 
-            q.addLast(j);
-
-            if(q.peekFirst()<i){
-                q.pollFirst();
+            while(!dq.isEmpty() && nums[dq.peekLast()]<=nums[i]){
+                dq.pollLast();
             }
 
-            if(j-i+1==k){
-                ans[idx++]=nums[q.peekFirst()];
-                i++;
-            }
+            dq.offerLast(i);
 
-            j++;
+            if(i>=k-1){
+                ans[idx++]= nums[dq.peekFirst()];
+            }
         }
 
         return ans;
