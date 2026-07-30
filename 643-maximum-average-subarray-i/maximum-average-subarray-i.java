@@ -7,14 +7,14 @@ class Solution {
             sum+= nums[i];
         }
 
-        int max= sum;
-        for(int i=k;i<n;i++){
-            sum+= nums[i];
-            sum-= nums[i-k];
+            int max= sum;
+            for(int i=k;i<n;i++){
+                sum+= nums[i];
+                sum-= nums[i-k];
 
-            max= Math.max(max,sum);
+                max= Math.max(max,sum);
+            }
+
+            return (double) max/k;
         }
-
-        return (double) max/k;
     }
-}
