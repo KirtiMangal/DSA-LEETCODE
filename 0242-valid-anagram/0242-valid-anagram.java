@@ -2,17 +2,18 @@ class Solution {
     public boolean isAnagram(String s, String t) {
         int n= s.length();
         int m= t.length();
+
         if(n!=m){
             return false;
         }
 
         int[] freq= new int[26];
-        for(char c: s.toCharArray()){
-            freq[c-'a']++;
+        for(char ch: s.toCharArray()){
+            freq[ch-'a']++;
         }
 
-        for(char c: t.toCharArray()){
-            freq[c-'a']--;
+        for(char ch:t.toCharArray()){
+            freq[ch-'a']--;
         }
 
         for(int i=0;i<26;i++){
@@ -20,7 +21,7 @@ class Solution {
                 return false;
             }
         }
-
-        return true;
+return true;
+        
     }
 }
