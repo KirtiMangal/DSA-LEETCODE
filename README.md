@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2169-simple-bank-system](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3454-separate-squares-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3454-separate-squares-ii) |
 ## Bit Manipulation
 |  |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0621-task-scheduler) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Union Find
 |  |
