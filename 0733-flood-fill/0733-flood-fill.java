@@ -13,7 +13,7 @@ class Solution {
 
     }
 
-    public static void dfs(int[][] image, int r,int c,int original, int newColor){
+    public static void dfs(int[][] image, int r,int c, int original,int newColor){
         int n= image.length;
         int m= image[0].length;
 
@@ -25,7 +25,7 @@ class Solution {
             return;
         }
 
-        image[r][c]= newColor;
+        image[r][c]=newColor;
 
         dfs(image,r+1,c,original,newColor);
         dfs(image,r-1,c,original,newColor);
