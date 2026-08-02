@@ -8,32 +8,28 @@ class Solution {
             return image;
         }
 
-            dfs(image,sr,sc,original,color);
+        dfs(image,sr,sc,original,color);
+        return image;
 
-            return image;
+    }
+
+    public static void dfs(int[][] image, int r,int c, int original,int newColor){
+        int n= image.length;
+        int m= image[0].length;
+
+        if(r<0 || r>=n || c<0 || c>=m){
+            return;
         }
 
-        public static void dfs(int[][] image, int r,int c, int original, int newColor){
-            int n= image.length;
-            int m= image[0].length;
+        if(original!=image[r][c]){
+            return;
+        }
 
-            if(r<0 || r>=n || c<0 || c>=m){
-                return;
-            }
+        image[r][c]=newColor;
 
-            if(original!=image[r][c]){
-                return;
-            }
-
-            if(original!=image[r][c]){
-                return;
-            }
-
-            image[r][c]= newColor;
-
-            dfs(image,r,c+1,original,newColor);
-            dfs(image,r,c-1,original,newColor);
-            dfs(image,r+1,c,original,newColor);
-            dfs(image,r-1,c,original,newColor);
+        dfs(image,r+1,c,original,newColor);
+        dfs(image,r-1,c,original,newColor);
+        dfs(image,r,c+1,original,newColor);
+        dfs(image,r,c-1,original,newColor);
     }
 }
