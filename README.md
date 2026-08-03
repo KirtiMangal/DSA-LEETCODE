@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0890-lemonade-change) |
 | [0931-minimum-falling-path-sum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0877-stone-game) |
 | [1390-four-divisors](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1390-four-divisors) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1903-largest-odd-number-in-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0968-binary-tree-cameras) |
 | [1092-shortest-common-supersequence](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/1092-shortest-common-supersequence) |
@@ -830,4 +833,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
