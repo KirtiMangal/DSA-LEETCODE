@@ -835,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Minimax
 |  |
 | ------- |
@@ -847,4 +848,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0877-stone-game) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
