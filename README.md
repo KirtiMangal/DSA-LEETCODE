@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2169-simple-bank-system](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/2169-simple-bank-system) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0876-middle-of-the-linked-list) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/0146-lru-cache) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/KirtiMangal/DSA-LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Trie
 |  |
