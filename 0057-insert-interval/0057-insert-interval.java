@@ -1,6 +1,8 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
+        int n= intervals.length;
         List<int[]> result= new ArrayList<>();
+
         for(int current[]:intervals){
             if(current[1]<newInterval[0]){
                 result.add(current);
@@ -18,8 +20,8 @@ class Solution {
         }
 
         result.add(newInterval);
+    
 
-        return result.toArray(new int[result.size()][]);
-        
+    return result.toArray(new int[result.size()][]);
     }
 }
