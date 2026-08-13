@@ -3,7 +3,7 @@ class Solution {
         int n= intervals.length;
         List<int[]> result= new ArrayList<>();
 
-        for(int current[]:intervals){
+        for(int[] current: intervals){
             if(current[1]<newInterval[0]){
                 result.add(current);
             }
@@ -14,14 +14,13 @@ class Solution {
             }
 
             else{
-                newInterval[0]= Math.min(newInterval[0],current[0]);
-                newInterval[1]= Math.max(newInterval[1],current[1]);
+                newInterval[0]= Math.min(current[0],newInterval[0]);
+                newInterval[1]= Math.max(current[1],newInterval[1]);
             }
         }
 
         result.add(newInterval);
-    
 
-    return result.toArray(new int[result.size()][]);
+        return result.toArray(new int[result.size()][]);
     }
 }
