@@ -2,34 +2,34 @@ class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         int n= nums.length;
         Arrays.sort(nums);
-        Set<List<Integer>> result= new HashSet<>();
 
+        Set<List<Integer>> set= new HashSet<>();
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
-            int left=j+1;
-            int right= n-1;
+                int k= j+1;
+                int l= n-1;
 
-            while(left<right){
-                long sum= (long) nums[i]+ nums[j] + nums[left]+ nums[right];
+                while(k<l){
+                    long sum= (long)nums[i]+nums[j]+nums[k]+nums[l];
 
-                if(sum==target){
-                    result.add(Arrays.asList(nums[i],nums[j],nums[left],nums[right]));
+                    if(sum==target){
+                        set.add(Arrays.asList(nums[i],nums[j],nums[k],nums[l]));
 
-                    left++;
-                    right--;
-                }
+                    k++;
+                    l--;
+                    }
 
-                else if(sum<target){
-                    left++;
-                }
+                    else if(sum<target){
+                        k++;
+                    }
 
-                else{
-                    right--;
+                    else{
+                        l--;
+                    }
                 }
             }
         }
-        }
 
-        return new ArrayList<>(result);
+        return new ArrayList<>(set);
     }
 }
